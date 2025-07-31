@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "霧",
+    "Name": "Catnip3",
+    "Punchline": "愛來自貓薄荷",
+    "Description": "貓貓愉快合集",
+    "Tags": [
+    ],
+    "InternalName": "Catnip3",
+    "DownloadCount": 1,
+    "LastUpdate": 1710602700,
+    "DownloadLinkInstall": "https://github.com/Mion354D/catniprel/raw/refs/heads/main/Catnip3.zip",
+    "DownloadLinkUpdate": "https://github.com/Mion354D/catniprel/raw/refs/heads/main/Catnip3.zip",
+    "AssemblyVersion": "7.2.0.14",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12"
+  }
+]
